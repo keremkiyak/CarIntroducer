@@ -63,6 +63,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         performSegue(withIdentifier: "toLexus", sender: nil)
         case "Mini":
         performSegue(withIdentifier: "toMini", sender: nil)
+        case "Volvo":
+        performSegue(withIdentifier: "toVolvo", sender: nil)
         case "Volkswagen":
         performSegue(withIdentifier: "toVolkswagen", sender: nil)
         default:

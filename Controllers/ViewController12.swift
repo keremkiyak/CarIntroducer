@@ -39,7 +39,7 @@ class ViewController12: UIViewController {
         label1.font.withSize(100)
         subview.addSubview(label1)
         
-        let lineView = UIView(frame: CGRect(x: 30, y: 190, width: 330, height: 1))
+        let lineView = UIView(frame: CGRect(x: 30, y: 200, width: 330, height: 1))
         lineView.backgroundColor = .black
         subview.addSubview(lineView)
         
