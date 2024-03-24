@@ -1,6 +1,6 @@
 //
 //  ViewController3.swift
-//  MulakatOdev
+// 
 //
 //  Created by kerem on 3.04.2023.
 //
